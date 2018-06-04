@@ -3,7 +3,9 @@
     <extensionMap>
       <mapping ext="php" type="PHP" />
       <mapping pattern="," type="PLAIN_TEXT" />
+      <mapping pattern=".env.development.local" type="PLAIN_TEXT" />
       <mapping pattern=".com.apple.timemachine.supported" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
