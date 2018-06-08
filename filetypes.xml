@@ -1,11 +1,22 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="php" type="PHP" />
-      <mapping pattern="," type="PLAIN_TEXT" />
-      <mapping pattern=".env.development.local" type="PLAIN_TEXT" />
-      <mapping pattern=".com.apple.timemachine.supported" type="PLAIN_TEXT" />
+      <mapping pattern="ContactsDocuments" type="CSS" />
+      <mapping pattern="props" type="JSON" />
+      <mapping pattern="PropertiesItem.jsx" type="JSX Harmony" />
+      <mapping pattern="stereoleto.js" type="JavaScript" />
+      <mapping ext="mov" type="Native" />
+      <mapping pattern=".env.production.local" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern=".zshrc" type="PLAIN_TEXT" />
+      <mapping pattern=".env.production" type="PLAIN_TEXT" />
+      <mapping pattern=".env.development.local" type="PLAIN_TEXT" />
+      <mapping pattern=".env.example" type="PLAIN_TEXT" />
+      <mapping pattern="del" type="PLAIN_TEXT" />
+      <mapping pattern=".env.develompent.local" type="PLAIN_TEXT" />
+      <mapping ext="sjon" type="PLAIN_TEXT" />
+      <mapping ext="swig" type="Twig" />
+      <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
   </component>
 </application>
